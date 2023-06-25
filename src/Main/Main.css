@@ -1,0 +1,68 @@
+.main{
+    border: 3px solid blue  ;
+    height: 910px;
+    width: 800px;
+    margin: 0px;
+    margin-top: auto;
+    margin-left: 0px;
+    padding-left: 0px;
+    
+    border-top-left-radius:20px ;
+    border-bottom-right-radius:20px;
+
+    
+}
+.dashboard{
+    height: 200px;
+    width: 750px;
+    border: 2px solid rgb(177, 177, 241);
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius:20px ;
+    
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+}
+.project{
+    height: 200px;
+    width: 750px;
+    border: 2px solid rgb(179, 179, 235);
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius:20px ;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+}
+.activity{
+    height: 200px;
+    width: 350px;
+    border: 2px solid rgb(179, 179, 235);
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius:20px ;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+    padding-left: 60px;
+}
+ .payment{
+    height: 200px;
+    width: 380px;
+    border: 2px solid rgb(179, 179, 235);
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius:20px ;
+    margin-right: 20px;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+    
+    justify-content: flex-end;
+}
+.flex{
+    display: flex;
+} 
+.accounting{
+    height: 250px;
+    width: 700px;
+    border: 2px solid rgb(179, 179, 235);
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius:20px ;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+    padding-left: 60px;
+}

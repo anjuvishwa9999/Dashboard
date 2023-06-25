@@ -1,0 +1,60 @@
+.brief{
+    border: 3px solid rgb(156, 156, 243);
+    height: 910px;
+    width: 300px;
+    margin: 0px;
+    margin-top: auto;
+    margin-left: 0px;
+    padding-left: 0px;
+    border-radius: 8px;
+}
+.time{
+    height: 250px;
+    width: 280px;
+    border-radius: 8px;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+    border: 3px solid rgb(156, 156, 243);
+    margin-left: 0px;
+    
+
+}
+.message{
+    height: 640px;
+    width: 280px;
+    border-radius: 8px;
+    box-shadow: 5px  5px 2px 0 rgb(194, 194, 236);
+    border: 3px solid rgb(156, 156, 243);
+    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+
+}
+ .brief .timer h4{
+    padding-top:0 px;
+    padding-left: 2px;
+
+    color: rgb(55, 0, 255);
+}
+.timer h5{
+    padding-top: 2pxpx;
+    padding-left: 2px;
+
+    color: blue;
+}
+img{
+    padding-left: 2px;
+}
+input{
+    padding-left: 2px;
+    padding-top: 2px;
+    border: 2px rgb(197, 197, 247);
+    border-radius: 4px;
+    border-color: rgb(185, 185, 235);
+    border-style: hidden;
+}
+h3{
+    color: rgb(123, 123, 245);
+}
+h5{
+    color: rgb(163, 163, 243);
+}
