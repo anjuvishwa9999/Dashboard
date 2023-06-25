@@ -30,7 +30,7 @@ export const options = {
     },
     title: {
       display: true,
-      text: 'Company Achivements',
+      text: 'Company Achivements in graph',
     },
   },
 };
